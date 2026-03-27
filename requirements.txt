@@ -1,5 +1,0 @@
-kivy
-requests
-pandas
-numpy
-scikit-learn
